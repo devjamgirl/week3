@@ -1,0 +1,24 @@
+a:hover {
+  background-color: yellow;
+}
+.nav li{
+  display:inline-block;
+  padding-left: 80px;
+ color:#A9A9A9
+}
+a {
+  text-decoration: none;
+  color: green;
+}
+button {
+width:33%;
+height:5%;
+}
+ul {
+  text-align: center;
+}
+.nav {
+  background-color: #A9A9A9;
+  height:50px;
+  margin-top: 0px;
+}
